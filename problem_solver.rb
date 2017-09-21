@@ -1,0 +1,3 @@
+class ProblemSolver
+	test
+end
